@@ -1,0 +1,7 @@
+{
+    "exec": "npm run lint && npm run dev",
+    "ext": "ts",
+    "ignore": [
+        "/**/*.spec.ts"
+    ]
+}
